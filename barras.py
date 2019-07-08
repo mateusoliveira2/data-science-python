@@ -1,3 +1,4 @@
+#coding: utf-8
 # Visualizacao de dados em Python
 
 import matplotlib.pyplot as plt 

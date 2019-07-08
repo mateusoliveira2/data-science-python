@@ -1,3 +1,4 @@
+#coding: utf-8
 # Visualizacao de dados em Python
 
 import matplotlib.pyplot as plt 
@@ -15,6 +16,6 @@ plt.xlabel(eixox)
 plt.ylabel(eixoy)
 
 plt.scatter(x, y, label = "Meus pontos", marker = "H", s = 50,   color = "red")
-plt.plot(x, y, color = "black")
+plt.plot(x, y, linestyle = "--", color = "black")
 plt.legend()
 plt.show()
