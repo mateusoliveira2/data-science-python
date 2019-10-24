@@ -1,6 +1,5 @@
 #coding: utf-8
 # Visualizacao de dados em Python
-
 import matplotlib.pyplot as plt 
 
 x = [1, 3, 5, 7, 9]
